@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    background-color: #4535C1;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#generator {
+    height: 100vh;
+    width: 100%;
+    background-image: url(./download\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#header2 {
+    font-size: 30px;
+    padding: 30px;
+    color: rgb(68, 201, 235);
+}
+
+#formholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+#changedtext{
+    font-size: 30px;
+    padding-top: 30px;
+}
